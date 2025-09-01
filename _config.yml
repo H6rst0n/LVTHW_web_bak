@@ -84,7 +84,7 @@ pagination_dir: page
 #stylus:
 #  compress: true
 
-theme: next
+theme: minima
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
